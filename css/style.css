@@ -1,0 +1,46 @@
+section div{
+    border: 1px solid #000;
+}
+
+.menu{
+    font-family: roboto;
+    font-size: 15px;
+    color: #fff;
+    background-color: #03045e;
+    padding: 25px;
+}
+
+body{
+    height: 100vh;
+}
+footer{
+    background-color: #03045e;
+    height: 5%;  
+    color: #fff;
+}
+.fons{
+    background-image: url('../img/moon.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.rectangle{
+    border-radius: 10px;
+    background-color:  #00B4D8 ;
+    border: 5px solid #03045e;
+}
+.opac{
+    opacity: 60%;
+}
+.text-h3{
+    color: #000;
+    font-size: 25px;
+}
+.boto{
+    background-color: #03045e;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+}
+.quadre-central{
+    padding-top: 218px;
+}
